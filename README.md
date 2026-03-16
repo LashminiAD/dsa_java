@@ -20,7 +20,7 @@ hackerrank_dsa_java
 ## Warmup
 
 | Problem | Solution |
-|---------|----------|
+|--------|---------|
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [SimpleArraySum.java](Warmup/SimpleArraySum.java) |
 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [CompareTriplets.java](Warmup/CompareTriplets.java) |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | [DiagonalDifference.java](Warmup/DiagonalDifference.java) |
